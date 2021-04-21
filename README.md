@@ -2,7 +2,7 @@
 - 👀 I’m interested in all kind of development 
 - 🌱 I’m currently learning ASP.NET, CSS, JavaScript, Django
 - 💞️ I’m looking to collaborate on any Projects that include the above
-- 📫 How to reach me ...
+- 📫 How to reach me amosckie@gmail.com 
 
 <!---
 AmosOmondi/AmosOmondi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
